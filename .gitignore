@@ -1,0 +1,80 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.Generated.cs
+
+# Packages directory
+**/packages/
+
+# Log files
+*.log
+
+# DotNet Core specific folders
+.vs/
+.vscode/
+.idea/
+.toolsettings/
+
+# Configuration files
+*.config
+*.env
+*.settings
+
+# Temporary files
+*.tmp
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.Generated.cs
+
+# Packages directory
+**/packages/
+
+# Log files
+*.log
+
+# DotNet Core specific folders
+.vs/
+.vscode/
+.idea/
+.toolsettings/
+
+# Configuration files
+*.config
+*.env
+*.settings
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# Publish outputs
+wwwroot/
+**/*.Publish.xml
+**/*.PublishSettings
+
+# Others
+*.dbmdl
+*.jfm
